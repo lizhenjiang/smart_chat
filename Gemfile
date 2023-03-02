@@ -1,4 +1,5 @@
-source "https://rubygems.org"
+# source "https://rubygems.org"
+source "http://mirrors.tuna.tsinghua.edu.cn/rubygems"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby "2.7.7"
